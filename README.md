@@ -150,7 +150,7 @@ Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, ins
 [Abrazo Seguro](http://abrazoseguro.pagedemo.co/)
 
 
-# Las herramientas que usamos
+## Las herramientas que usamos
 
 * Mapa de empatía
 * Journey de usuario
@@ -160,7 +160,7 @@ Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, ins
 * Hotjar para Mapas de calor
 
     
-# Nuestra Solución: Kidsway
+## Nuestra Solución: Kidsway
 
 Ofrecer un producto cómodo, ligero, seguro y fácil de usar; que sea económico a la renta pero que a la venta represente una buena inversión.
 
@@ -175,7 +175,7 @@ Posteriormente, aprovechando el awareness y boca a boca que se genere a partir d
 * Hacemos a madres y padres de familia protagonistas de esta experiencia a través de la campaña Abrazo Seguro, sin perder de vista las necesidades de nuestros usuarios finales: los niños y niñas que viajarán protegidos por Kidsway.
 
 
-# La Presentación
+## La Presentación
 ![Portada](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0)
 
 ![Enunciado del problema](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-1)
