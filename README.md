@@ -76,19 +76,19 @@ Testing supervisado con usuarios 
 ********************************************************************************
 
 
-## < l a b o r a t o r i a >
+### < l a b o r a t o r i a >
 
 
  
 
 
-## Definición del problema
+### Definición del problema
 
 Generar en un lapso de dos semanas, una solución para los usuarios de autobuses en la ruta México - Cuernavaca.
 El producto final es una landing page y una presentación mediante la cual se explica la solución, el modelo de negocio en el que se basa y cómo funciona.
 
 
-## Generando la idea
+### Generando la idea
 
 Hubo 3 propuestas dentro del equipo
 
@@ -99,7 +99,7 @@ Hubo 3 propuestas dentro del equipo
 Nos enfocamos en la tercera propuesta, pues fue a la que le vimos mayor potencial, debido a que existe un mercado millonario en torno a productos para bebés y que el journey de nuestros usuarios con hijos estaba plagado de *pain points* que serían nuestras áreas de oportunidad para explotar en una propuesta de negocio.
 
 
-## Desarrollando la idea
+### Desarrollando la idea
 
 * **Analizamos el journey de usuario** 
 
@@ -120,7 +120,7 @@ Dentro de los insights más importantes detectamos una percepción de insegurida
 Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, inspiradas por este video: [Niños y autobuses](https://www.youtube.com/watch?v=GNG4Z4p15Ro)
 
 
-## Problemas a los que nos enfrentamos
+### Problemas a los que nos enfrentamos
 
 * Los dispositivos de seguridad para bebés (asientos para autos, "huevitos") tienen curva de aprendizaje. Encontramos un estudio en Colombia que indicaba que del 100% de las personas que colocaban un asiento de auto para bebé por primera vez, el 100% de estas personas lo coloca mal.
 
@@ -129,7 +129,7 @@ Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, ins
 * Ya existen plataformas digitales de renta de asientos para auto.
 
 
-## Cómo lo resolvimos
+### Cómo lo resolvimos
 
 * Exploramos con atención las respuestas de nuestro cuestionario acerca de las mayores preocupaciones con respecto a la seguridad de menores de edad y descubrimos que una constante era la preocupación con respecto a la percepción de que los cinturones de seguridad para adultos no solo no son aptos para niños, sino incluso peligrosos.
 
@@ -150,7 +150,7 @@ Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, ins
 [Abrazo Seguro](http://abrazoseguro.pagedemo.co/)
 
 
-## Las herramientas que usamos
+### Las herramientas que usamos
 
 * Mapa de empatía
 * Journey de usuario
@@ -160,7 +160,7 @@ Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, ins
 * Hotjar para Mapas de calor
 
     
-## Nuestra Solución: Kidsway
+### Nuestra Solución: Kidsway
 
 Ofrecer un producto cómodo, ligero, seguro y fácil de usar; que sea económico a la renta pero que a la venta represente una buena inversión.
 
@@ -168,14 +168,14 @@ Nos interesa tener los productos disponibles en una tienda física en las estaci
 
 Posteriormente, aprovechando el awareness y boca a boca que se genere a partir de esta experiencia, nos plantearíamos lanzar una plataforma digital para la venta de este dispositivo.
 
-## Nuestros diferenciadores
+### Nuestros diferenciadores
 
 * En la actualidad no existe un dispositivo similar en el mercado con las características de seguridad y altos estándares de calidad que ofrece el dispositivo de Kidsway.
 
 * Hacemos a madres y padres de familia protagonistas de esta experiencia a través de la campaña Abrazo Seguro, sin perder de vista las necesidades de nuestros usuarios finales: los niños y niñas que viajarán protegidos por Kidsway.
 
 
-## La Presentación
+### La Presentación
 ![Portada](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0)
 
 ![Enunciado del problema](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-1)
