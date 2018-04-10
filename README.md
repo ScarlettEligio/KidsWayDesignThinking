@@ -17,6 +17,14 @@ Integrante| Puesto |
 *Deni Morales* | Product Owner |
 *Karina Gonzalez* | Designer|
 *Scarlett Eligio* | Researcher |
+
+
+Integrante| Puesto |
+--- | --- | 
+*Dan Serrano* | Product Owner |
+*Abril* | Designer            |
+*Rosa Talia* | Researcher     |
+
 ********************************************************************************
 
 ### Design Thinking:
