@@ -1,8 +1,82 @@
 # KIDSWAY
 
-* Dení Morales - Product Owner
-* Scarlett Eligio - UX Researcher
-* Karina González - Designer 
+## Descripcion
+
+Generar en un lapso de dos semanas, una solución para los usuarios de autobuses en la ruta México - Cuernavaca.
+El producto final es una landing page y una presentación mediante la cual se explica la solución, el modelo de negocio en el que se basa y cómo funciona.
+
+![kidsway](https://user-images.githubusercontent.com/32875483/38586916-4634840e-3ce5-11e8-8120-97162cc2a74a.png)
+
+
+### Planeación:
+
+Definición de roles
+
+Integrante| Puesto |
+--- | --- | 
+*Deni Morales* | Product Owner |
+*Karina Gonzalez* | Designer|
+*Scarlett Eligio* | Researcher |
+********************************************************************************
+
+### Design Thinking:
+
+Para resolver el problema planteado nos guiaremos con el proceso de Design Thinking 
+
+![Design Thinking](assets/images/designThinking.png "Optional title attribute")
+
+![disenocentrado](https://user-images.githubusercontent.com/32875483/38584134-02a3b282-3cdb-11e8-90b3-8fefe5b14588.png)
+
+#### Empatizar 
+
+Se realiza la investigación para lograr el entendimiento de nuestros usuarios.
+Investigar
+Entender
+
+Definimos mapa de empatia.
+Diseñamos y ejecutamos una encuesta.
+Obtención de insights
+
+#### Definir 
+Diseñar 
+Plasmar
+
+Definimos un perfil de usuario
+Definimos necesidades de usuario
+Definimos objetivos de negocio
+
+Creamos una oportunidad de negocio
+
+#### Idear 
+Diseñar 
+Plasmar
+
+Definimos ultima versión del enunciado del problema 
+Entendimos el contexto y nos inspiramos
+Hicimos lluvia de ideas de la solucion
+Construimos el scope canvas
+
+#### Prototipar 
+Diseñar 
+Plasmar
+
+Sketches del landing page
+Construccion de landing en herramienta online con practicas comprobadas de usabilidad.
+
+#### Evaluar 
+Testing supervisado con usuarios 
+
+
+********************************************************************************
+
+
+********************************************************************************
+
+
+## < l a b o r a t o r i a >
+
+
+ 
 
 
 ## Definición del problema
