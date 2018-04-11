@@ -14,9 +14,7 @@ Definición de roles
 
 *Integrante*       Puesto        
 
-*Deni Morales*     Product Owner 
-*Karina Gonzalez*  Designer      
-*Scarlett Eligio*  Researcher    
+*Deni Morales*     Product Owner *Karina Gonzalez*  Designer *Scarlett Eligio*  Researcher    
 
 
 ### Design Thinking:
