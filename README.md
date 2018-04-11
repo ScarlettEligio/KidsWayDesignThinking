@@ -12,15 +12,12 @@ El producto final es una landing page y una presentación mediante la cual se ex
 
 Definición de roles
 
-*Integrante*      | Puesto        |
+|*Integrante*      | Puesto        |
 
-*Deni Morales*    | Product Owner |
-*Karina Gonzalez* | Designer      |
-*Scarlett Eligio* | Researcher    |
+|*Deni Morales*    | Product Owner |
+|*Karina Gonzalez* | Designer      |
+|*Scarlett Eligio* | Researcher    |
 
-
-
-********************************************************************************
 
 ### Design Thinking:
 
@@ -41,12 +38,16 @@ Diseñamos y ejecutamos una encuesta.
 Obtención de insights
 
 #### Definir 
-Diseñar 
-Plasmar
 
-Definimos un perfil de usuario
-Definimos necesidades de usuario
-Definimos objetivos de negocio
+Hubo 3 propuestas dentro del equipo
+
+* Solución para personas de la 3a edad
+* Solución enfocada a las personas que viajan con mascotas
+* Solución para personas que viajan con bebés
+
+Nos enfocamos en la tercera propuesta, pues fue a la que le vimos mayor potencial, debido a que existe un mercado millonario en torno a productos para bebés y que el journey de nuestros usuarios con hijos estaba plagado de *pain points* que serían nuestras áreas de oportunidad para explotar en una propuesta de negocio.
+
+
 
 Creamos una oportunidad de negocio
 
@@ -87,9 +88,6 @@ Testing supervisado con usuarios 
 Generar en un lapso de dos semanas, una solución para los usuarios de autobuses en la ruta México - Cuernavaca.
 El producto final es una landing page y una presentación mediante la cual se explica la solución, el modelo de negocio en el que se basa y cómo funciona.
 
-
-### Generando la idea
-
 Hubo 3 propuestas dentro del equipo
 
 * Solución para personas de la 3a edad
@@ -117,7 +115,7 @@ Dentro de los insights más importantes detectamos una percepción de insegurida
 
 * **Redefinimos el problema**
 
-Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, inspiradas por este video: [Niños y autobuses](https://www.youtube.com/watch?v=GNG4Z4p15Ro)
+Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, inspiradas por este video:https://www.youtube.com/watch?v=GNG4Z4p15Ro
 
 
 ### Problemas a los que nos enfrentamos
@@ -166,37 +164,13 @@ Ofrecer un producto cómodo, ligero, seguro y fácil de usar; que sea económico
 
 Nos interesa tener los productos disponibles en una tienda física en las estaciones de autobuses disponibles para renta y venta. Para nosotras es muy importante que el producto sea conocido en un inicio de manera física por las madres y padres de familia, que lo vean, lo toquen e interactúen con él, que puedan percibir e imaginar lo seguros y cómodos que podrán viajar sus hijos y lo importante que será contar con este dispositivo al momento de ocurrir un siniestro. 
 
-Posteriormente, aprovechando el awareness y boca a boca que se genere a partir de esta experiencia, nos plantearíamos lanzar una plataforma digital para la venta de este dispositivo.
+Posteriormente nos plantearíamos lanzar una plataforma digital para la venta de este dispositivo.
 
-### Nuestros diferenciadores
 
 * En la actualidad no existe un dispositivo similar en el mercado con las características de seguridad y altos estándares de calidad que ofrece el dispositivo de Kidsway.
 
 * Hacemos a madres y padres de familia protagonistas de esta experiencia a través de la campaña Abrazo Seguro, sin perder de vista las necesidades de nuestros usuarios finales: los niños y niñas que viajarán protegidos por Kidsway.
 
-
-### La Presentación
-![Portada](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0)
-
-![Enunciado del problema](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-1)
-
-![Insights](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-2)
-
-![Necesidades del usuario](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-3)
-
-![Objetivos de negocio](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-4)
-
-![Nuestra solucion](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-5)
-
-![Nuestra estrategia](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-6)
-
-![Mapa de calor de primera version de landing page](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-7)
-
-![Landing page segunda version 1](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-8)
-
-![Landing page segunda version 2](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-9)
-
-![Cierre](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-10)
 
 
 
