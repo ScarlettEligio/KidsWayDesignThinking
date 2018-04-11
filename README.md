@@ -12,9 +12,9 @@ El producto final es una landing page y una presentación mediante la cual se ex
 
 Definición de roles
 
-*Integrante*       Puesto        
+*Integrante*       Puesto.       
 
-*Deni Morales*     Product Owner *Karina Gonzalez*  Designer *Scarlett Eligio*  Researcher    
+*Deni Morales*     Product Owner. *Karina Gonzalez*  Designer. *Scarlett Eligio*  Researcher.    
 
 
 ### Design Thinking:
