@@ -20,10 +20,10 @@ Definición de roles
 ### Design Thinking:
 
 Para resolver el problema planteado nos guiaremos con el proceso de Design Thinking 
+![disenocentrado](https://user-images.githubusercontent.com/32875483/38648687-32ae7df8-3db8-11e8-99a5-0da62841736d.png)
+![proceso](https://user-images.githubusercontent.com/32875483/38648693-421a7e72-3db8-11e8-9668-aa4450dcd370.png)
 
-![Design Thinking](assets/images/designThinking.png "Optional title attribute")
 
-![disenocentrado](https://user-images.githubusercontent.com/32875483/38584134-02a3b282-3cdb-11e8-90b3-8fefe5b14588.png)
 
 #### Empatizar 
 
