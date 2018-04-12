@@ -3,57 +3,73 @@
 ## Descripcion
 
 Generar en un lapso de dos semanas, una solución para los usuarios de autobuses en la ruta México - Cuernavaca.
-El producto final es una landing page y una presentación mediante la cual se explica la solución, el modelo de negocio en el que se basa y cómo funciona.
+El producto final es una landing page y la presentación de la misma en la cual se explica la solución y el modelo de negocio en el que se basa y cómo funciona.
 
 ![kidsway](https://user-images.githubusercontent.com/32875483/38586916-4634840e-3ce5-11e8-8120-97162cc2a74a.png)
 
+### Miembros del equipo y roles
+*Integrante* Puesto.       
+*Deni Morales* Product Owner. 
+*Karina Gonzalez*  Designer. 
+*Scarlett Eligio*  Researcher.    
 
-### Planeación:
+### Metodologia: Design Thinking
 
-Definición de roles
-
-*Integrante*       Puesto.       
-
-*Deni Morales*     Product Owner. *Karina Gonzalez*  Designer. *Scarlett Eligio*  Researcher.    
-
-
-### Design Thinking:
-
-Para resolver el problema planteado nos guiaremos con el proceso de Design Thinking 
-![disenocentrado](https://user-images.githubusercontent.com/32875483/38648687-32ae7df8-3db8-11e8-99a5-0da62841736d.png)
-![proceso](https://user-images.githubusercontent.com/32875483/38648693-421a7e72-3db8-11e8-9668-aa4450dcd370.png)
-
+![procesoo](https://user-images.githubusercontent.com/32875483/38648810-cb27b004-3db8-11e8-9a97-4366067b2b43.png)
 
 
 #### Empatizar 
 
-Se realiza la investigación para lograr el entendimiento de nuestros usuarios.
-Investigar
-Entender
+Objetivo: Ofrecer una solución para mejorar el journey para los usuarios de autobuses en la ruta México - Cuernavaca
 
-Definimos mapa de empatia.
-Diseñamos y ejecutamos una encuesta.
-Obtención de insights
+Cada miembro del equipo trae su propuesta a la mesa para discutir.
+
+* Solución para personas de la 3a edad.
+* Solución enfocada a las personas que viajan con mascotas.
+* Solución para personas que viajan con menores.
+
+La propuesta "Solución para personas que viajan con bebés" se definio como ideal ya que el mercado de productos enfocados a infantes es un mercado fertil y amplio.
+Tambien se genero lluvia de ideas donde acordamos que el journey del usuario que viaja con menores está lleno de *paint points* que facilmente se traducen a áreas de oportunidad para explotar en una propuesta de negocio.
+
+Analizamos el journey de usuario 
+Detectamos los *pain points* y buscamos soluciones viables. 
+
+Se realiza mapa de empatia
+![mapa](https://user-images.githubusercontent.com/32875483/38648924-6e1b4636-3db9-11e8-9b34-297c1cbc9223.png)
+
+Se abandono la idea de "entretenimiento" para priorizar el tema seguridad.
+Se define encuesta acorde a solución enfocada en renta de sillas para bebés y se aplica con viajeros frecuentes entre 18 y 65 años.
+
+
+
 
 #### Definir 
 
-Hubo 3 propuestas dentro del equipo
+Insights obtenidos: 
+Perfil de usuario target se define: Femenino de .
+Disponibilidad a pago.
+Enunciado no sufre modificaciones.
+Prioridad de marca top en accesorios de seguridad mención no influye en usuarios.
+Incertidumbres : Hay gran tendencia a viajar con niños. Hay disposición a realizar inversión adicional o influencia en preferencia de compra respecto al tema.
+Las condiciones de seguridad para niñ@s en las líneas de autobuses es insuficiente
+![insights](https://user-images.githubusercontent.com/32875483/38648979-c108652c-3db9-11e8-8863-448a1ef7cfd0.png)
+Se realizaron encuestas con usuarios frecuentes de lineas de autobuses nacionales en viajes cortos, con preferencia a viajeros del tramo cdmx-cuernavaca.
 
-* Solución para personas de la 3a edad
-* Solución enfocada a las personas que viajan con mascotas
-* Solución para personas que viajan con bebés
 
-Nos enfocamos en la tercera propuesta, pues fue a la que le vimos mayor potencial, debido a que existe un mercado millonario en torno a productos para bebés y que el journey de nuestros usuarios con hijos estaba plagado de *pain points* que serían nuestras áreas de oportunidad para explotar en una propuesta de negocio.
+Perfil de usuario:
+M
+.,..
+Objetivos de negocio: 
+* Awareness
+* Rentabilidad
+* Reconocimiento en el mercado.
 
 
-
-Creamos una oportunidad de negocio
 
 #### Idear 
-Diseñar 
-Plasmar
+Definimos la ultima versión del enunciado del problema: **Las condiciones de seguridad para niñ@s en las líneas de autobuses es insuficiente**  
 
-Definimos ultima versión del enunciado del problema 
+
 Entendimos el contexto y nos inspiramos
 Hicimos lluvia de ideas de la solucion
 Construimos el scope canvas
@@ -78,7 +94,9 @@ Testing supervisado con usuarios 
 ### < l a b o r a t o r i a >
 
 
- 
+ * Awareness
+* Rentabilidad
+* Reconocimiento en el mercado.
 
 
 ### Definición del problema
@@ -86,30 +104,12 @@ Testing supervisado con usuarios 
 Generar en un lapso de dos semanas, una solución para los usuarios de autobuses en la ruta México - Cuernavaca.
 El producto final es una landing page y una presentación mediante la cual se explica la solución, el modelo de negocio en el que se basa y cómo funciona.
 
-Hubo 3 propuestas dentro del equipo
 
-* Solución para personas de la 3a edad
-* Solución enfocada a las personas que viajan con mascotas
-* Solución para personas que viajan con bebés
-
-Nos enfocamos en la tercera propuesta, pues fue a la que le vimos mayor potencial, debido a que existe un mercado millonario en torno a productos para bebés y que el journey de nuestros usuarios con hijos estaba plagado de *pain points* que serían nuestras áreas de oportunidad para explotar en una propuesta de negocio.
 
 
 ### Desarrollando la idea
 
-* **Analizamos el journey de usuario** 
 
-Detectamos los *pain points* y analizamos en cual podríamos enfocarnos para ofrecer una solución. En principio pensamos en enfocarnos en entretenimiento a bordo para niños, pero más tarde nos dicmos cuenta de que el tema de la seguridad era prioritario para nuestras usuarias (la mayoría fueron mujeres).
-
-* **Realizamos un mapa de empatía**
-
-![Mapa de empatía](./assets/images/IMG-20180216-WA0001)
-
-* **Relizamos un cuestionario mediante Google Forms para validar nuestra idea**
-
-Dentro de los insights más importantes detectamos una percepción de inseguridad general con respecto a cómo viajan niños y bebés actualmente y que la gran mayoría de las madres estarían dispuestas a pagar por mejorar dichas condiciones.
-
-![Insights](./assets/images/KidsWay(1).png)
 
 * **Redefinimos el problema**
 
