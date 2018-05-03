@@ -92,13 +92,7 @@ Posteriormente nos plantearíamos lanzar una plataforma digital para la venta de
 
 * En la actualidad no existe un dispositivo similar en el mercado con las características de seguridad y altos estándares de calidad que ofrece el dispositivo de Kidsway.
 
-* Hacemos a madres y padres de familia protagonistas de esta experiencia a través de la campaña Abrazo Seguro, sin perder de vista las necesidades de nuestros usuarios finales: los niños y niñas que viajarán protegidos por Kidsway.
-
-![Landing page Abrazo Seguro](./assets/images/screencapture-abrazoseguro-pagedemo-co-2018-03-09-21_41_46)
-
-
-
-
+* Hacemos a madres y padres de familia protagonistas de esta experiencia a través de la campaña Abrazo Seguro, sin perder de vista las necesidades de nuestros usuarios finales: los niños y niñas que viajarán protegidos por Kidsway
 
 
 
@@ -123,9 +117,8 @@ Utilizando:
 * Google analytics
 * Hotjar/ Mapas de calor
 
-![Landing page Abrazo Seguro](./assets/images/screencapture-abrazoseguro-pagedemo-co-2018-03-09-21_41_46)
+![fireshot capture 72 - kidswaydesignthinking_screencapture-ab_ - https___github com_scarletteligio_](https://user-images.githubusercontent.com/32875483/39557422-0b0b8c46-4e4d-11e8-8ffc-43321ee4a679.png)
 
-[Abrazo Seguro](http://abrazoseguro.pagedemo.co/)
 
 
 ********************************************************************************
