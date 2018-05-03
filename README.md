@@ -83,7 +83,7 @@ Basandonos en tales insights
     
 ### Nuestra Solución: Kidsway
 
-Ofrecer un producto cómodo, ligero, seguro y fácil de usar; que sea económico a la renta pero que a la venta represente una buena inversión.
+Ofrecer un producto cómodo, ligero, seguro y fácil de usar; que sea económico a la renta pero, pese a que tambien se ofrecera en venta, no sea tan socorrido por el costo que representa.
 
 Nos interesa tener los productos disponibles en una tienda física en las estaciones de autobuses disponibles para renta y venta. Para nosotras es muy importante que el producto sea conocido en un inicio de manera física por las madres y padres de familia, que lo vean, lo toquen e interactúen con él, que puedan percibir e imaginar lo seguros y cómodos que podrán viajar sus hijos y lo importante que será contar con este dispositivo al momento de ocurrir un siniestro. 
 
@@ -96,7 +96,7 @@ Posteriormente nos plantearíamos lanzar una plataforma digital para la venta de
 
 ![Landing page Abrazo Seguro](./assets/images/screencapture-abrazoseguro-pagedemo-co-2018-03-09-21_41_46)
 
-[Abrazo Seguro](http://abrazoseguro.pagedemo.co/)
+
 
 
 
